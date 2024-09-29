@@ -4,7 +4,7 @@ Pusher is an application designed to quickly setup a bare-metal server
 for running your applications using Traefik and Docker. Within a few 
 minutes you can have a machine setup and your application running.
 
-> [!Danger]
+> [!WARNING]
 > This tool isn't meant to be used in a production setting. In fact,
 > it really isn't meant for anyone but myself. I do NOT guarantee
 > anything about this app, its performance, or outcomes. And I do not
